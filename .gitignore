@@ -1,0 +1,24 @@
+# Binäre Dateien und kompiliertes Java
+*.class
+
+# Log-Dateien
+*.log
+
+# Jar-Dateien
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build-Verzeichnisse
+/target/
+/build/
+
+# Librarien
+libs/*.jar
